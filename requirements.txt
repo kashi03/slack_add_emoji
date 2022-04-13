@@ -2,5 +2,5 @@ Flask==1.0.2
 gunicorn==19.9.0
 requests==2.20.0
 beautifulsoup4>=4.4, <5.0
-lxml==3.7.3
+lxml==4.6.5
 aiohttp==2.3.1
